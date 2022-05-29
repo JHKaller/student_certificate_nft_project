@@ -1,0 +1,15 @@
+{
+  "description": "The world's first unpack certificate.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXKVCafnJKswKDbktGXqCjbxABkTxcqaeoYRBqBKNqhvE",
+  "name": "JohnKaller",
+  "attributes": [
+    {
+      "trait_type": "category",
+      "value": "Blockchain"
+    },
+    {
+      "trait_type": "power_type",
+      "value": "teleport"
+    }
+  ]
+}
